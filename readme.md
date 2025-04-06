@@ -33,7 +33,7 @@
 이 모든 과정은 눈에 안 보이게 백그라운드
 ```
 
-![alt text](image.png)
+![alt text](image-compare.png)
 
 - CLion이나 IntelliJ는 빌드 도구 + 컴파일러 + 실행기 + 에디터를 모두 합쳐서 사용자가 “버튼 한 번만 누르면” 실행되도록 도와주는 편리한 환경
 
